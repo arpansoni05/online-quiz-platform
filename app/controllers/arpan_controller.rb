@@ -1,0 +1,2 @@
+class ArpanController < ApplicationController
+end

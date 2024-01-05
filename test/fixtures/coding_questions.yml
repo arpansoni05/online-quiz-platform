@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  assessment: one
+  content: MyString
+  answer: MyString
+  test1: MyString
+  test2: MyString
+  test3: MyString
+
+two:
+  assessment: two
+  content: MyString
+  answer: MyString
+  test1: MyString
+  test2: MyString
+  test3: MyString
